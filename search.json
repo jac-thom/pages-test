@@ -1,23 +1,62 @@
 [
   {
-    "objectID": "quart_test.html",
-    "href": "quart_test.html",
-    "title": "Test Document",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test-pages book",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "0.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Document</span>"
+    ]
   },
   {
-    "objectID": "quart_test.html#quarto",
-    "href": "quart_test.html#quarto",
-    "title": "Test Document",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "test-pages book",
+    "section": "0.2 Running Code",
+    "text": "0.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Document</span>"
+    ]
   },
   {
-    "objectID": "quart_test.html#running-code",
-    "href": "quart_test.html#running-code",
-    "title": "Test Document",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Intro chapter",
+    "section": "",
+    "text": "2.1 Introduction\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro chapter</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#details",
+    "href": "intro.html#details",
+    "title": "2  Intro chapter",
+    "section": "2.2 details",
+    "text": "2.2 details\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro chapter</span>"
+    ]
+  },
+  {
+    "objectID": "c1.html",
+    "href": "c1.html",
+    "title": "3  Chapter One",
+    "section": "",
+    "text": "3.1 Chapter One\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter One</span>"
+    ]
+  },
+  {
+    "objectID": "c1.html#chapter-1-part-1",
+    "href": "c1.html#chapter-1-part-1",
+    "title": "3  Chapter One",
+    "section": "3.2 chapter 1 part 1",
+    "text": "3.2 chapter 1 part 1\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter One</span>"
+    ]
   }
 ]
