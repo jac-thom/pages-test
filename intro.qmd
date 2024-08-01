@@ -1,16 +1,16 @@
 ---
-title: "Test Document"
+title: "Intro chapter"
 format: 
   html:
     toc: true
 editor: visual
 ---
 
-## Quarto
+## Introduction
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## Running Code
+## details
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
